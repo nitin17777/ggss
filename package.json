@@ -1,0 +1,28 @@
+{
+  "name": "campusdine",
+  "version": "1.0.0",
+  "description": "This web application allows students to place food orders online. It is developed using Express.js, React, Node.js, and MySQL. The application streamlines order management, enabling the college canteen to efficiently receive, prepare, and manage orders for student pickup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitKumar8080/CampusDine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnkitKumar8080/CampusDine/issues"
+  },
+  "homepage": "https://github.com/AnkitKumar8080/CampusDine#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
